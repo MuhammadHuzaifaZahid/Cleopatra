@@ -1,5 +1,5 @@
 # Cleopatra
-An intuitive iPhone app to optimize in salon environment.
+Cleopatra is an intuitive iPhone app to optimize a salon environment. It features an interactive countdown timer.
 # Technologies Used
 * Xcode 13
 * SwiftUI 
